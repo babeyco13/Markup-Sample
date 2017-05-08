@@ -18,7 +18,15 @@ header{
 	margin: 1px 1px 1px 1px;
 	padding: 20px 1px 1px 1px;
 }
-
+#logo a {
+	margin-left: 20px;
+	float: left;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 26px;
+	text-shadow: 0 1px 0 white;
+	color: #373e47;
+}
 
 nav {
 	overflow: hidden;
